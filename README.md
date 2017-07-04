@@ -1,2 +1,2 @@
-# Antobody_Rosie2017
-Interactive notebook
+# Antobody Rosie2017
+An example of interactive notebook for analysis of IM-MS data.
